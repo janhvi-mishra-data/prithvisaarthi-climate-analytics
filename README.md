@@ -4,7 +4,7 @@
 > 🏆 Galactic Impact Award – NASA Space Apps Challenge 2024  
 > 🌍 Climate Analytics Dashboard built using Power BI and Excel
 
-![Dashboard Preview](images/climate-dashboard.png)
+![Dashboard Preview](images/climate-dashboard.jpeg)
 
 ![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)
 ![Excel](https://img.shields.io/badge/Tool-Excel-green)
@@ -78,7 +78,7 @@ The dashboard focuses on greenhouse gas emissions, carbon dioxide concentration,
 
 # 🔄 Workflow Diagram
 
-![Workflow Diagram](images/workflow.png)
+![Workflow Diagram](images/workflow.jpeg)
 
 ---
 
@@ -96,7 +96,7 @@ The dashboard focuses on greenhouse gas emissions, carbon dioxide concentration,
 
 ## Climate Analytics Dashboard
 
-![Climate Dashboard](images/climate-dashboard.png)
+![Climate Dashboard](images/climate-dashboard.jpeg)
 
 ---
 
@@ -168,4 +168,4 @@ Aspiring Data Analyst passionate about Data Analytics, Business Intelligence, an
 ### Connect With Me
 
 - LinkedIn: https://linkedin.com/in/janhvi-mishra-4ab72328a
-- GitHub: https://github.com/janhvi-data
+- GitHub: https://github.com/janhvi-mishra-data
